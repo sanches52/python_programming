@@ -59,7 +59,7 @@ alunos = {
 # Extraindo notas para variável
 notas_ana = alunos['Ana']
 notas_fernanda = alunos['Fernanda']
-notas_leonardo =alunos['Leonardo']
+notas_leonardo = alunos['Leonardo']
 
 # Maior nota por aluno
 maior_nota_ana = max(notas_ana)
